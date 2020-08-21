@@ -166,6 +166,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Ryan's Solution](https://github.com/larger96/connect-four)
 * [James's Solution](https://github.com/jegrieve/TDD_Connect_Four)
 * [Aaron Contreras's Solution](https://github.com/aaron-contreras/connect-four)
 * [Aaron's Solution](https://github.com/Aaron-McD/connect-four)
@@ -318,7 +319,6 @@ connect_four)
 * [Rémi Borfigat’s Solution](https://github.com/remiborfigat/plot_four)
 * [Sandy’s Solution](https://github.com/kuosandys/top-ruby-assignments/tree/master/connect_four)
 * [Bingo's Solution](https://github.com/NotAProgrammerdork/Ruby/tree/master/connect_four_spec)
-* [bhenning83's Solution](https://github.com/bhenning83/connect_four)
 </details>
 
 ### Additional Resources
